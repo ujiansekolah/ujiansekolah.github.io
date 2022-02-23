@@ -1,0 +1,178 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+@media only screen and (min-width: 900px){
+    body{
+        background-color: powderblue;
+    }
+    .Semua{
+        width: 100vw;
+        height: 100vh;
+    }
+    .atas{
+        width: 100vw;
+        height: 20vh;
+        background-color: rgba(90, 90, 136, 0.993);
+        text-align: center;
+    }
+    .kembali{
+        float: left ;
+        left: 1vw;
+        top: 4vh;
+        width: 5vw;
+        height: 5vw;
+        position: relative;
+    }
+    .atas h1{
+        font-size: 5vh;
+        border-bottom: 2px solid white;
+        color: white;
+        position: relative;
+        display: inline-block;
+        padding: 5px;
+        letter-spacing: 2px;
+        margin-left: 0;
+        top: 1vh;
+        margin-top: 0px;
+        width: 40vw;
+    }
+    .atas h2{
+        font-size: 5vh;
+        border-bottom: 2px solid white;
+        color: white;
+        position: relative;
+        display: inline-block;
+        padding: 5px;
+        letter-spacing: 2px;
+        margin-left: 0;
+        top: 2vh;
+        margin-top: 0px;
+        width: 60vw;
+    }
+    .petunjuk{
+        font-size: 4vh;
+        margin-left: 1vw;
+        margin-top: 1vh;
+        width: 9vw;
+        display: inline-block;
+        border: 2px solid rgb(1, 59, 78);
+        background-color: white;
+        border-radius: 0px 10px 10px 0px;
+        padding: 5px;
+    }
+    .petunjukku{
+        font-size: 3vh;
+        margin-left: 1vw;
+        margin-top: 0vh;
+        width: 45vw;
+        display: inline-block;
+        border: 2px solid rgb(1, 59, 78);
+        background-color: white;
+        border-radius: 0px 10px 10px 0px;
+        padding: 5px;
+    }
+    .kelas1{
+        width: 28vw;
+        height: 15vh;
+        margin-left: 1vw;
+        margin-top: 3vh;
+        color: black;
+        text-align: center;
+        display: inline-block;
+        border: 4px solid black;
+        border-radius: 35px;
+        padding: 15px 5px 5px 5px;
+    }
+    .kelas2{
+        width: 28vw;
+        height: 15vh;
+        margin-left: 1vw;
+        margin-top: 3vh;
+        color: black;
+        text-align: center;
+        display: inline-block;
+        border: 4px solid black;
+        border-radius: 35px;
+        padding: 15px 5px 5px 5px;
+    }
+    .kelas3{
+        width: 32vw;
+        height: 15vh;
+        margin-left: 1vw;
+        margin-top: 3vh;
+        color: black;
+        text-align: center;
+        display: inline-block;
+        border: 4px solid black;
+        border-radius: 35px;
+        padding: 15px 5px 5px 5px;
+    }
+    .kelasM{
+        width: 29vw;
+        height: 18vh;
+        margin-left: 1vw;
+        margin-top: 3vh;
+        color: black;
+        text-align: center;
+        display: inline-block;
+        border: 4px solid black;
+        border-radius: 35px;
+        padding: 15px 5px 5px 5px;
+    }
+    .kelasP{
+        width: 24vw;
+        height: 18vh;
+        margin-left: 1vw;
+        margin-top: 3vh;
+        color: black;
+        text-align: center;
+        display: inline-block;
+        border: 4px solid black;
+        border-radius: 35px;
+        padding: 15px 5px 5px 5px;
+    }
+    .kelas4{
+        width: 30vw;
+        height: 17vh;
+        margin-left: 1vw;
+        margin-top: 3vh;
+        color: black;
+        text-align: center;
+        display: inline-block;
+        border: 4px solid black;
+        border-radius: 35px;
+        padding: 8px 5px 5px 5px;
+    }
+    .tulisan{
+        top: 1vh;
+        font-size: 1.5vw;
+        position: relative;
+    }
+    .tulisan1{
+        left: 2vw;
+        top: 1vh;
+        font-size: 1.5vw;
+        position: relative;
+    }
+    .tulisan2{
+        left: 5.5vw;
+        top: 1vh;
+        font-size: 1.5vw;
+        position: relative;
+    }
+    .tulisanP{
+        float: left;
+        top: 1vh;
+        font-size: 1.5vw;
+        position: relative;
+    }
+    .tulisanP1{
+        float: left;
+        left: 10.5vw;
+        top: 1vh;
+        font-size: 1.5vw;
+        position: relative;
+    }
+}

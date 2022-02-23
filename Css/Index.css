@@ -1,0 +1,154 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+@media only screen and (min-width: 900px){
+    body{
+        background-color: powderblue;
+    }
+    .Semua{
+        width: 100vw;
+        height: 100vh;
+    }
+    .atas{
+        width: 100vw;
+        height: 20vh;
+        background-color: rgba(90, 90, 136, 0.993);
+        text-align: center;
+    }
+    .atas h1{
+        font-size: 5vh;
+        border-bottom: 2px solid white;
+        color: white;
+        position: relative;
+        display: inline-block;
+        padding: 5px;
+        letter-spacing: 2px;
+        margin-left: 0;
+        top: 1vh;
+        margin-top: 0px;
+        width: 40vw;
+    }
+    .atas h2{
+        font-size: 5vh;
+        border-bottom: 2px solid white;
+        color: white;
+        position: relative;
+        display: inline-block;
+        padding: 5px;
+        letter-spacing: 2px;
+        margin-left: 0;
+        top: 2vh;
+        margin-top: 0px;
+        width: 60vw;
+    }
+    .petunjuk{
+        font-size: 4vh;
+        margin-left: 1vw;
+        margin-top: 1vh;
+        width: 9vw;
+        display: inline-block;
+        border: 2px solid rgb(1, 59, 78);
+        background-color: white;
+        border-radius: 0px 10px 10px 0px;
+        padding: 5px;
+    }
+    .petunjukku{
+        font-size: 3vh;
+        margin-left: 1vw;
+        margin-top: 0vh;
+        width: 39vw;
+        display: inline-block;
+        border: 2px solid rgb(1, 59, 78);
+        background-color: white;
+        border-radius: 0px 10px 10px 0px;
+        padding: 5px;
+    }
+    .kelasB{
+        position: relative;
+        /* display: inline-block; */
+        top: 10vh;
+    }
+    .kiri{
+        float: left;
+        width: 50vw;
+    }
+    .kelas1{
+        width: 17vw;
+        height: 11vh;
+        font-size: 3vw;
+        margin-left: 1vw;
+        margin-top: 3vh;
+        color: black;
+        text-align: center;
+        display: inline-block;
+        border: 4px solid black;
+        border-radius: 35px;
+        padding: 8px 5px 5px 5px;
+    }
+    .kelas2{
+        width: 17vw;
+        height: 11vh;
+        font-size: 3vw;
+        margin-left: 1vw;
+        margin-top: 3vh;
+        color: black;
+        text-align: center;
+        display: inline-block;
+        border: 4px solid black;
+        border-radius: 35px;
+        padding: 8px 5px 5px 5px;
+    }
+    .kelas3{
+        width: 15vw;
+        height: 11vh;
+        font-size: 3vw;
+        margin-left: 1vw;
+        margin-top: 3vh;
+        color: black;
+        text-align: center;
+        display: inline-block;
+        border: 4px solid black;
+        border-radius: 35px;
+        padding: 8px 5px 5px 5px;
+    }
+    .kanan{
+        float: right;
+        width: 50vw;
+    }
+    .kelas4{
+        width: 16vw;
+        height: 11vh;
+        font-size: 3vw;
+        margin-left: 1vw;
+        margin-top: 3vh;
+        color: black;
+        text-align: center;
+        display: inline-block;
+        border: 4px solid black;
+        border-radius: 35px;
+        padding: 8px 5px 5px 5px;
+    }
+    .kelas5{
+        width: 20vw;
+        height: 11vh;
+        font-size: 3vw;
+        margin-left: 1vw;
+        margin-top: 3vh;
+        color: black;
+        text-align: center;
+        display: inline-block;
+        border: 4px solid black;
+        border-radius: 35px;
+        padding: 8px 5px 5px 5px;
+    }
+    .bawah{
+        width: 100vw;
+        height: 7vh;
+        background-color: rgba(90, 90, 136, 0.993);
+        text-align: center;
+        position: relative;
+        margin-top: 59vh;
+    }
+}
